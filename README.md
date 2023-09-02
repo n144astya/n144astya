@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### <img src="https://cdn-icons-png.flaticon.com/512/11829/11829339.png" width="20" height="20">  Обо мне:
 
 Я начинаю свой путь в мануальном тестировании. Пока не имею достаточной практики, однако успешно прошла курс Артема Русава. На текущей момент уже около года работаю в IT правда как Lead Generation Specialist E-mail. 
 Как человек я очень трудолюбива, целеустремлена, активна по многим направлениям <img src="https://cdn-icons-png.flaticon.com/512/9750/9750906.png" width="20" height="20">. И хотелось бы отметить что давно считаю девизом по жизни слова Сократа: "Я знаю что ничего не знаю".
@@ -85,12 +85,13 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+###  Тестовые артефакты
+<div>
+    <a href="https://github.com/n144astya/charles_proxy" trget = "blank">Charles</a>&nbsp, 
+    <a href="https://github.com/n144astya/mobila_testing/" trget = "blank">Mobila testing</a>&nbsp,
+    <a href="https://github.com/n144astya/mongodb/" trget = "blank">MongoDB</a>&nbsp, 
+    <a href="https://github.com/n144astya/Postman/" trget = "blank">Postman</a>&nbsp, 
+    <a href="https://github.com/n144astya/demo_guru99" trget = "blank">YouTrack</a>&nbsp,
+    <a href="https://github.com/n144astya/MySQL" trget = "blank">MySQL</a>&nbsp.  
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
