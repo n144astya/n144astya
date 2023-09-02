@@ -6,13 +6,13 @@
 
 Я начинаю свой путь в мануальном тестировании. Пока не имею достаточной практики, однако успешно прошла курс Артема Русава. На текущей момент уже около года работаю в IT правда как Lead Generation Specialist E-mail. 
 Как человек я очень трудолюбива, целеустремлена, активна по многим направлениям <img src="https://cdn-icons-png.flaticon.com/512/9750/9750906.png" width="20" height="20">. И хотелось бы отметить что давно считаю девизом по жизни слова Сократа: "Я знаю что ничего не знаю".
-Считаю личным достижением то, что смене профессии не помешал мой декрет. И мой дальнейший рост будет более динамичен. О предыдущем опыте работы можно посмотреть в SV: 
-<a href="https://docs.google.com/document/d/1DWihG5jg3izdSJv8vNKj6bkQAx34hoM5/edit?usp=sharing&ouid=114828956685303103582&rtpof=true&sd=true" target="_blank">
+Считаю личным достижением то, что смене профессии не помешал мой декрет. И мой дальнейший рост будет более динамичен. О предыдущем опыте работы можно посмотреть в SV:  
+<a href="https://github.com/n144astya/n144astya/blob/main/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20SV.docx" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/512/10306/10306725.png" width="20" height="20">
 </a>
 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@nastya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nastya-danilova-636686225/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:n144asty@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@nastya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nastya-danilava/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:n144asty@gmail.com)
 
 ---
 
